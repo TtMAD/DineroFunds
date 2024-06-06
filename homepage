@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proprietary Trading Firm</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <h2>AlphaPro</h2>
+            <div class="row">
+                <span>Max Virtual Trading Days</span><span>Unlimited</span>
+            </div>
+            <div class="row">
+                <span>Virtual Profit Target</span><span>$16,000 (8%)</span>
+            </div>
+            <div class="row">
+                <span>Analyst Performance Fee</span><span>N/A</span>
+            </div>
+            <div class="row">
+                <span>Max Drawdown</span><span>10% ($20,000)</span>
+            </div>
+            <div class="row">
+                <span>Max Daily Drawdown</span><span>5%</span>
+            </div>
+            <div class="row">
+                <span>Max Virtual Capital Growth</span><span>$2,000,000</span>
+            </div>
+            <div class="row">
+                <span>Minimum Virtual Trading Days</span><span>3 Days</span>
+            </div>
+            <div class="row">
+                <span>0% Commissions</span><span>Yes</span>
+            </div>
+            <div class="row">
+                <span>Hold Through High Impact News</span><span>Yes</span>
+            </div>
+            <div class="row">
+                <span>Hold Over The Weekend</span><span>Yes</span>
+            </div>
+            <div class="row">
+                <span>Assessment Price</span><span>$997</span>
+            </div>
+        </div>
+
+        <!-- Repeat the card for other sections like Assessment - Phase 1, Assessment - Phase 2, Qualified Analyst account -->
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
